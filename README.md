@@ -1,7 +1,3 @@
-Here's a step-by-step breakdown you can use for your **README.md** file to explain your **Interactive Energy Management System** project built with Streamlit:
-
----
-
 # 🔌 Indian Household Electricity Consumption Analysis
 
 This project provides a comprehensive and interactive dashboard built with **Streamlit** for analyzing and predicting household electricity usage based on appliance-level data. It includes predictive modeling, anomaly detection, and dynamic tariff estimation.
